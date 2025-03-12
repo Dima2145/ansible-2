@@ -37,13 +37,7 @@
 - name: Checking 80 port
   ansible.builtin.wait_for:
     port: 80
-    delay: 15
-
-##- name: Starting apache2
-##  ansible.builtin.service:
-##    name: apache2
-##    state: started
-##    enabled: yes
+    delay: 5
 
 - name: Checks content of index.html
   ansible.builtin.uri:
