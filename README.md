@@ -50,3 +50,6 @@ kafka-playbook.yml
 ...
 
 Процесс выполнения:
+![Снимок 150](https://github.com/user-attachments/assets/efd10f35-b25a-467d-ae8d-85c967007ba6)
+
+
