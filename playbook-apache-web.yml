@@ -1,0 +1,8 @@
+  GNU nano 7.2                               playbook-apache-web.yml                                         
+---
+- name: apache-web-playbook.yml
+  hosts: my
+  become: yes
+  roles:
+  - include_roles:
+    name: apache-netology-hw
