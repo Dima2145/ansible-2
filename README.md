@@ -175,5 +175,8 @@ playbook-motd.yml
 ![Снимок 165](https://github.com/user-attachments/assets/61001c20-f7ec-4de0-95b3-f20df92f60d7)
 ![Снимок 166](https://github.com/user-attachments/assets/fed49db7-cbe0-4f14-8e37-9a149f725533)
 
+![Снимок 140](https://github.com/user-attachments/assets/ffb05fab-9de0-4f1a-a46f-5891325144ef)
+
+
 ![Снимок 164](https://github.com/user-attachments/assets/368e28d2-5a7e-4623-b19a-f3eba76f68f9)
 ![Снимок 163](https://github.com/user-attachments/assets/40f056f6-0962-40f0-876f-340054fab56a)
