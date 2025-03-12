@@ -1,6 +1,6 @@
   GNU nano 7.2                               playbook-apache-web.yml                                         
 ---
-- name: apache-web-playbook.yml
+- name: playbook-apache-web.yml
   hosts: my
   become: yes
   roles:
