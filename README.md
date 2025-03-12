@@ -20,7 +20,7 @@
 
 
 kafka-playbook.yml
-
+```rb
 ---
 - name: kafka-playbook
   hosts: k8s-nodes
@@ -46,7 +46,7 @@ kafka-playbook.yml
         remote_src: true
       tags:
         - unarchive
-     
+ ```    
 ...
 
 Процесс выполнения:
