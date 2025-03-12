@@ -23,7 +23,7 @@ kafka-playbook.yml
 ```rb
 ---
 - name: kafka-playbook
-  hosts: k8s-nodes
+  hosts: my
   tasks:
     - name: Creating folder for Kafka
       ansible.builtin.file:
